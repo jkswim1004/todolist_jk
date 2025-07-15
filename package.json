@@ -4,7 +4,8 @@
   "private": true,
   "engines": {
     "node": ">=16.0.0",
-    "npm": ">=8.0.0"
+    "npm": ">=8.0.0",
+    "yarn": ">=1.22.0"
   },
   "dependencies": {
     "@types/node": "^16.7.13",
